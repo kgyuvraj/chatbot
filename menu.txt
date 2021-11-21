@@ -1,0 +1,18 @@
+﻿I am a multi tasking bot.
+I can do following listed tasks for you:
+
+    • For searching your query in "wikipedia" type
+      your query starting with "wiki"
+      For eg. "wiki virat kohli"
+    • For searching your query in "google" type
+      your query starting with "google"
+      For eg. "google python"
+    • For playing video in "youtube" type your
+      query starting with "youtube"
+      For eg. "youtube elon musk"
+    • For listening jokes type "tell me a joke" 
+      or "joke"
+      For eg. "tell me a joke"
+    • For conversion of image to ascii art type 
+      "img to ascii" + path of your image
+      For eg. "img to ascii /home/user/Pictures/download.png"
